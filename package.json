@@ -1,5 +1,5 @@
 {
-  "name": "parcel-starter",
+  "name": "microsites-dommo",
   "version": "1.0.0",
   "description": "A simple boilerplate parcel project. (Ready to be deployed with ▲ ZEIT Now!)",
   "main": "index.js",
@@ -23,7 +23,7 @@
     "package",
     "sass"
   ],
-  "author": "Ivo Ilic <admin@ivoilic.com> (https://ivoilic.com)",
+  "author": "Dom Ewan <dominic.simcox@gmail.com> ",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ivoilic/parcel-starter/issues"
